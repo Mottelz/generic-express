@@ -1,0 +1,14 @@
+{
+  "name": "generic-express",
+  "version": "1.0.0",
+  "description": "A empty project for assignments and exams",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "YOUR NAME HERE",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
